@@ -10,3 +10,5 @@ build/Makefile
 build/VROB
 
 build/Calibration
+
+.vscode/
